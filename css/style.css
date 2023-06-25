@@ -4,13 +4,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
     text-decoration: none;
+    flex-wrap: wrap;
 }
 
 body {
     font-size: 100%;
     background: linear-gradient(38deg, #2F2325 0%, #8E5D52 100%);
-
 }
 
 .cabecalho {
